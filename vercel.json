@@ -1,3 +1,8 @@
 {
-
+  "crons": [
+    {
+      "path": "/cron/send-billing-data-cron",
+      "schedule": "0 0 31 2 *"
+    }
+  ]
 }
