@@ -12,6 +12,7 @@
 # next.js
 /.next/
 /out/
+/app/callback/page.tsx
 
 # production
 /build
